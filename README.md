@@ -12,17 +12,14 @@ Outshots is a dynamic news application that provides users with the latest news 
 - **Third-Party News API**: Leverages a robust third-party news API for reliable and comprehensive news data.
 
 ## Installation
-1. Clone the repository: `git clone - https://github.com/Rhythm-2829/OutShots.git `
-2. Navigate to the project directory: `cd news-mag`
+1. Clone the repository: `git clone https://github.com/Gaurav237/HotShots.git`
+2. Navigate to the project directory: `cd HotShots`
 3. Install the dependencies: `npm install`
 4. Start the server: `npm run dev`
 5. Open your browser and visit `http://localhost:5173`
 
 ## Usage
 Once the server is running, you can navigate through the news articles displayed on the homepage. Click on an article to read more about it.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Tech Stack
 1. React
